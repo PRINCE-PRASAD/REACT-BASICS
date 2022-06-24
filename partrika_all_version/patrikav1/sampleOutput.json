@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 1061,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mat Smith",
+      "title": "The Morning After: The FDA could ban Juul’s e-cigarettes",
+      "description": "The Food and Drug Administration is preparing to stop Juul from selling e-cigarette products in the US, and the decision could come soon, according to a report from The Wall Street Journal.Along with other e-cigarette makers, Juul submitted its products to th…",
+      "url": "https://www.engadget.com/the-morning-after-the-fda-could-ban-juuls-e-cigarettes-111550212.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-images/2019-09/9f6e79c0-d4d9-11e9-ad18-5ea40103b7e1",
+      "publishedAt": "2022-06-23T11:15:50Z",
+      "content": "The Food and Drug Administration is preparing to stop Juul from selling e-cigarette products in the US, and the decision could come soon, according to a report from The Wall Street Journal.\r\nAlong wi… [+3454 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "iOS 16’s editable iMessages may not play nice with older iPhones",
+      "description": "The latest developer beta for iOS 16 includes a messy workaround to ensure that newly editable iMessages can be received on iPhones without Apple’s latest software. It sends a second message with the edited text.",
+      "url": "https://www.theverge.com/2022/6/23/23179820/ios-16-imessage-edit-messages-incompatible-previous-versions-of-ios",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BXJuir3tqGaXfoKBp8JBptFHEGw=/0x21:999x544/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23610605/wwdc_2022_1008_10_13_13.jpg",
+      "publishedAt": "2022-06-23T11:46:13Z",
+      "content": "The app re-sends an edited message if youre on an older version of iOS\r\nHow edited messages are supposed to look.\r\nImage: Apple\r\nThe ability to edit and unsend messages was one of the flagship featur… [+1883 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "tips@androidcentral.com (Jay Bonggolto)",
+      "title": "Mecool HomePlus KA1 Android TV box review: a streaming device and smart speaker combo",
+      "description": "The Mecool HomePlus KA1 offers almost everything you could want from a streaming device, such as 4K HDR support. It also functions as a smart speaker with Google Assistant and Chromecast onboard, providing a hands-free streaming experience.",
+      "url": "https://www.androidcentral.com/streaming-tv/mecool-homeplus-ka1-android-tv-box-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/63LKmgS8NgbDN7Rf5ecBuN-1200-80.jpg",
+      "publishedAt": "2022-06-23T12:00:00Z",
+      "content": "Cord-cutters have had an exciting period over the past two years, with Android TV boxes gaining traction and Google's Chromecast taking on a new form with a remote for the first time. When you combin… [+11682 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Jamie Grierson",
+      "title": "Royal Mail marks 50 years of UK Pride with colourful set of stamps",
+      "description": "March in London on 1 July 1972 was first with the name ‘Gay Pride’, inspired by events in USOn 1 July 1972 a crowd of people gathered in London’s Trafalgar Square and marched to Hyde Park chanting “Gay is fun! Gay is proud! Gay is beautiful!”.It was not the f…",
+      "url": "https://amp.theguardian.com/world/2022/jun/23/royal-mail-marks-50-years-of-uk-pride-with-colourful-set-of-stamps",
+      "urlToImage": "https://i.guim.co.uk/img/media/9690924c38c8b1b9fee2c1f631b4e9a10b745ef3/0_0_5905_3543/master/5905.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3d988f09e077475595d88ad66bd8df1",
+      "publishedAt": "2022-06-23T05:00:39Z",
+      "content": "On 1 July 1972 a crowd of people gathered in Londons Trafalgar Square and marched to Hyde Park chanting Gay is fun! Gay is proud! Gay is beautiful!.\r\nIt was not the first march for LGBTQ+ rights in t… [+2108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Andrew Lawrence",
+      "title": "‘Nobody called 911’: what can be done to change the culture of hazing at US colleges?",
+      "description": "The rate of perilous hazing incidents has ticked up at colleges across the country, and in many cases schools have limited power to stop itLate on 19 October 2021, an 18-year-old University of Missouri student named Danny Santulli collapsed to the floor in th…",
+      "url": "https://amp.theguardian.com/us-news/2022/jun/23/us-colleges-university-hazing-fraternities-sororities",
+      "urlToImage": "https://i.guim.co.uk/img/media/eac4068bbde5254fb955221c4921beea48cb00da/0_0_4521_2713/master/4521.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81aa0c7a86c2621e4e2d3af12e39a96c",
+      "publishedAt": "2022-06-23T10:00:45Z",
+      "content": "Late on 19 October 2021, an 18-year-old University of Missouri student named Danny Santulli collapsed to the floor in the middle of a Tuesday night party the latest victim of an apparent hazing ritua… [+9227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Nadia Khomami Arts and culture correspondent",
+      "title": "‘It stays mind-blowing’: Billie Eilish’s mum on her daughter making Glastonbury history",
+      "description": "Maggie Baird will watch Eilish perform as the youngest ever solo headliner, and she also has a climate crisis documentary in the festivalHeadlining Glastonbury’s Pyramid stage – the most recognised festival platform in the world – has always been a career-def…",
+      "url": "https://amp.theguardian.com/music/2022/jun/23/it-stays-mind-blowing-billie-eilish-mum-maggie-baird-daughter-making-glastonbury-history",
+      "urlToImage": "https://i.guim.co.uk/img/media/79857b2e199975e7e4d2daaa7273d0fa09c2c6e4/0_0_3648_2189/master/3648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b94093075d5fdc16429ae7237b8ca18d",
+      "publishedAt": "2022-06-23T11:48:28Z",
+      "content": "Headlining Glastonburys Pyramid stage the most recognised festival platform in the world has always been a career-defining moment. When 20-year-old Billie Eilish makes history as the youngest ever so… [+5214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Louisa Lim",
+      "title": "The King of Kowloon: my search for the cult graffiti prophet of Hong Kong",
+      "description": "For years Tsang Tsou-choi daubed his eccentric demands around Hong Kong, and the authorities raced to cover them up. But as the city’s protest movements bloomed, his words mysteriously reappearedThe secret message only appeared when the wall was drenched with…",
+      "url": "https://amp.theguardian.com/world/2022/jun/23/the-king-of-kowloon-my-search-for-the-cult-graffiti-prophet-of-hong-kong",
+      "urlToImage": "https://i.guim.co.uk/img/media/86d83b891e303c0a84231fefa38ac1c3dd2f7a7d/0_170_2464_1478/master/2464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ebed587c71187b624ec4ed89ca823cc",
+      "publishedAt": "2022-06-23T05:00:39Z",
+      "content": "The secret message only appeared when the wall was drenched with rain. For weeks, I had been scouring Hong Kong for these misshapen Chinese characters, but the way they materialised out of nowhere wa… [+28291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "iOS 16 Lets You Sort Personal and Work Messages on Dual-SIM iPhones",
+      "description": "iOS 16 introduces a useful new feature for dual-SIM iPhone users: the ability to sort messages per SIM in the Messages app. This feature is particularly beneficial to those who have both personal and work lines set up on a single iPhone.\n\n\n\n\n\n\"Messages now su…",
+      "url": "https://www.macrumors.com/2022/06/23/ios-16-message-sorting-on-dual-sim-iphones/",
+      "urlToImage": "https://images.macrumors.com/t/mVsxVkokGvYOZLv_lWKhis5yQl8=/2500x/article-new/2021/07/General-Apps-Messages.jpg",
+      "publishedAt": "2022-06-23T13:23:22Z",
+      "content": "iOS 16 introduces a useful new feature for dual-SIM iPhone users: the ability to sort messages per SIM in the Messages app. This feature is particularly beneficial to those who have both personal and… [+1259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Daniel Marans",
+      "title": "Q&A With Bill de Blasio: Ex-NYC Mayor, NY-10 Congressional Hopeful Is Proud Of His Record",
+      "description": "\"We created one of the closest things to a social democracy in recent United States history.”",
+      "url": "https://www.huffpost.com/entry/bill-de-blasio-ny-10-congressional-primary-interview_n_62acaaa7e4b0cf43c8568197",
+      "urlToImage": "https://img.huffingtonpost.com/asset/62acaef42100009c245edbf9.jpeg?ops=1778_1000",
+      "publishedAt": "2022-06-23T12:00:04Z",
+      "content": "Then-New York City Mayor Bill de Blasio speaks in April 2021. He is proud of programs like universal preschool and believes that voters are prepared to embrace him once again.\r\nNEW YORK At six feet, … [+19301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Eva Rodríguez de Luis",
+      "title": "Las siete mejores ofertas de la Semana Web de MediaMarkt que todavía puedes comprar",
+      "description": "Hasta el próximo lunes 27 de junio a las 9 de la mañana en la web de MediaMarkt vas a encontrar ofertas exclusivas en su Semana Web en categorías como informática, telefonía, televisores, audio, smartwatches, pequeño y gran electrodoméstico y más. El volumen …",
+      "url": "https://www.xataka.com/seleccion/siete-mejores-ofertas-semana-web-mediamarkt-que-todavia-puedes-comprar",
+      "urlToImage": "https://i.blogs.es/dfa082/carousel_21/840_560.jpg",
+      "publishedAt": "2022-06-23T06:31:08Z",
+      "content": "Hasta el próximo lunes 27 de junio a las 9 de la mañana en la web de MediaMarkt vas a encontrar ofertas exclusivas en su Semana Web en categorías como informática, telefonía, televisores, audio, smar… [+3827 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Economist"
+      },
+      "author": "The Economist",
+      "title": "After a golden decade, fintech faces its first true test",
+      "description": "Rising interest rates and a slowing economy will shock the business model",
+      "url": "https://www.economist.com/finance-and-economics/2022/06/23/after-a-golden-decade-fintech-faces-its-first-true-test",
+      "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220625_FNP504.jpg",
+      "publishedAt": "2022-06-23T10:47:18Z",
+      "content": "Europes annual Money 20/20 conference is where the rock stars of fintech come to cut deals and court investors. The shindig this month, the first proper extravaganza since 2020, had the added buzz of… [+3956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Trevor Mogg",
+      "title": "Apple’s Tim Cook drops heaviest hint yet about a future device",
+      "description": "In an interview this week Apple chief Tim Cook pretty much confirmed that the company is working on a high-tech headset.",
+      "url": "https://www.digitaltrends.com/computing/apple-boss-drops-heaviest-hint-yet-about-future-device/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/03/screen-shot-2022-03-08-at-10-01-14-am.jpg?p=1",
+      "publishedAt": "2022-06-23T04:10:42Z",
+      "content": "Apple is famous for keeping its cards close to its chest when it comes to upcoming products, so comments made by CEO Tim Cook this week have surprised many observers.\r\nSpeaking in an interview with C… [+2299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Andy Boxall",
+      "title": "Why fitness tracker subscriptions are a rip-off (and how to avoid them)",
+      "description": "Some fitness trackers come with an optional subscription package, but if you put in a little effort, most of what's in them can be found for free.",
+      "url": "https://www.digitaltrends.com/mobile/why-fitness-tracker-subscriptions-rip-off-how-avoid-them/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/03/fitbit-sense-carbon-lifestyle.jpg?p=1",
+      "publishedAt": "2022-06-23T12:00:00Z",
+      "content": "There’s a split in the world of fitness trackers when it comes to your access to the data they collect. Some companies charge a monthly subscription for complete access to the accompanying platform, … [+8314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Derek Thompson",
+      "title": "A Recession Could Kill the Work-From-Home Revolution",
+      "description": "Company culture may soon resemble what bosses want, rather than what workers want—and that could mean a lot more butts in seats.",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/06/could-recession-kill-the-work-from-home-revolution/661361/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2022-06-23T10:00:00Z",
+      "content": "Sign up for Derek’s newsletter here.Sometimes, a trend that seems inevitable turns out to be a fragile creature of circumstance. For example, throughout the 2010s, a fleet of consumer-tech companies … [+6011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gigazine.net"
+      },
+      "author": "@GIGAZINE",
+      "title": "M2搭載の「13インチMacBook Pro」海外レビューまとめ、「確かに優れているがM2搭載MacBook Airを待つべき」との声も",
+      "description": "Appleが発表した次世代SoCであるM2チップを搭載した「13インチMacBook Pro」が2022年6月24日から発売されます。そんな13インチMacBook Proの実機レビューを海外メディアが続々と公開していたので、M2を搭載した13インチMacBook Proの利点は何か、どんなユーザーが買うべきなのかをまとめてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20220623-m2-macbook-pro-13-inch-reviews/",
+      "urlToImage": "https://i.gzn.jp/img/2022/06/23/m2-macbook-pro-13-inch-reviews/00_m.jpg",
+      "publishedAt": "2022-06-23T04:15:00Z",
+      "content": "by Brian Heater\r\nAppleSoCM213MacBook Pro202262413MacBook ProM213MacBook Pro\r\nApple MacBook Pro 13 (2022) review: new chip, old threads - The Vergehttps://www.theverge.com/23177674/apple-macbook-pro-m… [+2309 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "Anna Merlan, Tim Marchman",
+      "title": "Why Are the Weirdest People Online Obsessed With Organ Meats?",
+      "description": "The answer lies in the excruciating nexus of TikTok, Joe Rogan, a carnivore doctor, and some specious claims about how our “ancestors” ate.",
+      "url": "https://www.vice.com/en/article/g5vp7q/why-are-the-weirdest-people-online-obsessed-with-organ-meats",
+      "urlToImage": "https://video-images.vice.com/articles/62b35959d54a5300b978ada8/lede/1655922630811-gettyimages-1341633803.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI4eGg7MHh3LDAuMDkxNXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+      "publishedAt": "2022-06-23T13:09:15Z",
+      "content": "There are many curious things about Evie Magazine, which brands itself as a conservative alternative to mainstream women’s magazines. There are, of course, its many weird and wrong claims about COVID… [+9432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Bestätigt: Das iPad ist kein Home Hub für HomeKit mehr",
+      "description": "Die Funktion der Steuerzentrale können künftig nur noch Apple TV und HomePod übernehmen. Hoffnungen, dass sich Apple das nochmals überlegt, wurden nun begraben.",
+      "url": "https://www.heise.de/news/Bestaetigt-Das-iPad-ist-kein-Home-Hub-fuer-HomeKit-mehr-7149249.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/6/4/0/0/2/241731985_08e301b4a1-e293dfc6d6ca8cf5.png",
+      "publishedAt": "2022-06-23T08:03:00Z",
+      "content": "Das iPad ist offiziell kein sogenannter Home Hub mehr und kann also nicht mehr als Steuerzentrale für ein HomeKit-Smarthome dienen. Was sich bereits durch einzelne Aussagen Apples angedeutet hatte, w… [+1997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Ersatzteilkrise: Apple schickt Nutzer mit defekten Geräten nach Hause",
+      "description": "Weil Komponenten zu langsam nachkommen, dürfen User ihre Hardware wieder mitnehmen, wenn sie noch teilweise funktioniert. Ist Ersatz da, wird repariert.",
+      "url": "https://www.heise.de/news/Ersatzteilkrise-Apple-schickt-Nutzer-mit-defekten-Geraeten-nach-Hause-7149277.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/6/4/0/1/7/shutterstock_1081681526-31d67dc54eae7b7b.jpg",
+      "publishedAt": "2022-06-23T08:39:00Z",
+      "content": "Apple hat nicht nur Lieferprobleme für neue Geräte wie etwa Macs, sondern auch bei der Versorgung mit Ersatzteilen scheint es aktuell Schwierigkeiten zu geben. Zumindest in den USA ist der Konzern de… [+2018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "iPhone: Neue Sicherheitsfunktionen gegen Spam und Phishing",
+      "description": "In iOS 16 macht Apple es leichter, Hackversuche per Mail zu erkennen. Unverlangte Reklame per Kurznachricht lässt sich besser melden.",
+      "url": "https://www.heise.de/news/iPhone-Neue-Sicherheitsfunktionen-gegen-Spam-und-Phishing-7149282.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/6/4/0/2/0/shutterstock_1917956951-3efc4d5abf04946f.jpg",
+      "publishedAt": "2022-06-23T09:15:00Z",
+      "content": "Apple hat unter iOS 16 an den Sicherheitsfunktionen seines iPhone-Betriebssystems geschraubt. Neue Maßnahmen sollen insbesondere dafür sorgen, dass Spammer und Phisher es weniger leicht haben, Opfer … [+2348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Frank Schräer",
+      "title": "Donnerstag: Cyberangriff auf FH Münster, E-Fuel nicht umweltfreundlich genug",
+      "description": "Sicherheitsprobleme in Münster + Studie zu E-Fuel-Autos + Kartenterminal-Ausfall aufgearbeitet + LNG-Terminal auf dem Weg + Test: MacBook Pro 2022 + #heiseshow",
+      "url": "https://www.heise.de/news/Donnerstag-Cyberangriff-auf-FH-Muenster-E-Fuel-nicht-umweltfreundlich-genug-7149327.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/6/4/0/4/5/thursday-63a0bfde55093812.webp",
+      "publishedAt": "2022-06-23T04:30:00Z",
+      "content": "Eine Cyberattacke hat die Fachhochschule Münster empfindlich getroffen. Während die IT-Systeme intern wieder nutzbar sind, ist der externe Zugang per Internet auch nach Tagen immer noch nicht möglich… [+4052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Alexander Spier",
+      "title": "heise+ | Erinnerungen schützen: So sichern Sie Bilder vom Smartphone",
+      "description": "Geht das Smartphone verloren oder kaputt, sind auch die Fotos darauf futsch. Gerade im Urlaub ist das besonders ärgerlich. Wir zeigen, wie man Vorlust vorbeugt.",
+      "url": "https://www.heise.de/ratgeber/Erinnerungen-schuetzen-So-sichern-Sie-Bilder-vom-Smartphone-7147164.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/6/3/0/6/4/shutterstock_1215493660-678f09e60855b145.jpg",
+      "publishedAt": "2022-06-23T10:30:00Z",
+      "content": "Inhaltsverzeichnis\r\nDas Smartphone ist das Gerät, mit dem die meisten Bilder geschossen werden. Es steckt ohnehin in der Tasche und die Bildqualität reicht inzwischen für fast jede Situation. Doch we… [+1647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "iOS 16 beta 2 adds new menu to manage HomePod beta Software",
+      "description": "Apple on Wednesday released iOS 16 beta 2 to developers, two weeks after the first beta release of iOS 16 announced at WWDC 2022. The update brings several tweaks across the system, and interestingly, it also adds a new menu for managing HomePod beta Software…",
+      "url": "https://9to5mac.com/2022/06/22/ios-16-beta-2-homepod-beta-software/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/HomePod-beta-iOS-16-Home-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T06:53:11Z",
+      "content": "Apple on Wednesday released iOS 16 beta 2 to developers, two weeks after the first beta release of iOS 16 announced at WWDC 2022. The update brings several tweaks across the system, and interestingly… [+2252 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "US chip production subsidies in doubt despite bipartisan support",
+      "description": "Almost exactly a year ago, the Senate approved $52B in funding to boost US chip production, and the House likewise gave its support in February of this year. Apple also lobbied for the deal. Despite this, the subsidy now appears to be in doubt.\nDemocrats and …",
+      "url": "https://9to5mac.com/2022/06/23/us-chip-production/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/US-chip-production.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T11:11:43Z",
+      "content": "Almost exactly a year ago, the Senate approved $52B in funding to boost US chip production, and the House likewise gave its support in February of this year. Apple also lobbied for the deal. Despite … [+3501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "Everything new with the redesigned iOS 16 video player",
+      "description": "The default video player gets a big upgrade with iOS 16 and iPadOS 16. The redesign brings a drastically modernized UI, as well as some new features and enhancements.\nApple uses the system video player in all of its apps, of course, but many third-party apps …",
+      "url": "https://9to5mac.com/2022/06/23/ios-16-video-player/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/new-ios-16-video-player.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T13:20:41Z",
+      "content": "The default video player gets a big upgrade with iOS 16 and iPadOS 16. The redesign brings a drastically modernized UI, as well as some new features and enhancements.\r\nApple uses the system video pla… [+3993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Federal privacy law hits Democrat roadblock after earlier Republican ones",
+      "description": "Hopes of passing a federal privacy law during the current session of Congress are now fading. The problem to date has been getting enough Republicans on board, but now there are challenges on the Democrat side, too.\nTwo key Democratic figures say they are unw…",
+      "url": "https://9to5mac.com/2022/06/23/federal-privacy-law-3/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/Federal-privacy-law.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T13:27:34Z",
+      "content": "Hopes of passing a federal privacy law during the current session of Congress are now fading. The problem to date has been getting enough Republicans on board, but now there are challenges on the Dem… [+3357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "José Adorno",
+      "title": "Netflix in talks with potential ad partners, could build in-house ad network for service",
+      "description": "Netflix is in a full swing on its bet to start an advertising business inside its platform. After losing 200,000 subscribers during the first quarter of the year, the company is seriously considering a new ad-supported tier as well as creating its own adverti…",
+      "url": "https://9to5mac.com/2022/06/23/netflix-potential-ad-partners-subscription/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/netflix-apple-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T13:34:42Z",
+      "content": "Netflix is in a full swing on its bet to start an advertising business inside its platform. After losing 200,000 subscribers during the first quarter of the year, the company is seriously considering… [+1849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "José Adorno",
+      "title": "Some iOS 16 features require an iPhone XS or newer; here they are",
+      "description": "iOS 16 will support the iPhone 8, iPhone X, and newer models. Even so, not all functions will be available to older iPhones. With that in mind, 9to5Mac now gathered all the features that will require at least an iPhone XR, iPhone XS, or newer. Here they are.\n…",
+      "url": "https://9to5mac.com/2022/06/23/ios-16-exclusive-features-iphone-xs-newer/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/iphone-xs-ios-15-newer-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T12:47:25Z",
+      "content": "iOS 16 will support the iPhone 8, iPhone X, and newer models. Even so, not all functions will be available to older iPhones. With that in mind, 9to5Mac now gathered all the features that will require… [+4074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "iOS 16: Hands on with over 100 new features for iPhone users [Video]",
+      "description": "iOS 16 packs a ton of new features and changes for iPhone users. At this point, everyone’s seen the headlining features like the redesigned Lock Screen, Messages upgrades, and new features for Mail. As usual, however, there are many other new features in iOS …",
+      "url": "https://9to5mac.com/2022/06/22/ios-16-new-features-video/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/ios-16-best-features.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T01:47:29Z",
+      "content": "iOS 16 packs a ton of new features and changes for iPhone users. At this point, everyone’s seen the headlining features like the redesigned Lock Screen, Messages upgrades, and new features for Mail. … [+1884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Nintendo to end Switch Online app support for older iPhones and iPads",
+      "description": "Nintendo Switch owners will soon have to make sure they’re running the latest version of iOS on their iPhones and iPads, at least if they want to continue having access to the Nintendo Switch Online app. The Japanese game company will no longer support older …",
+      "url": "https://9to5mac.com/2022/06/22/nintendo-switch-online-app-older-iphone/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/Nintendo-Switch-Online-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T00:56:02Z",
+      "content": "Nintendo Switch owners will soon have to make sure they’re running the latest version of iOS on their iPhones and iPads, at least if they want to continue having access to the Nintendo Switch Online … [+1758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Instagram age verification may analyze face videos, but it’s all just window-dressing",
+      "description": "Instagram age verification – or rather, lack of same – has been a hot-button issue for some time with both parents and lawmakers. App owner Meta has so far made no effort to ensure that claimed user ages are correct but says that it is now testing three verif…",
+      "url": "https://9to5mac.com/2022/06/23/instagram-age-verification/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/Instagram-age-verification.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-23T12:09:09Z",
+      "content": "Instagram age verification or rather, lack of same has been a hot-button issue for some time with both parents and lawmakers. App owner Meta has so far made no effort to ensure that claimed user ages… [+3931 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food52.com"
+      },
+      "author": "Kelly Vaughan",
+      "title": "30 Juiciest Peach Recipes for Summer",
+      "description": "Sure, you can probably find a peach at the grocery store year-round. But it’s probably not very good—it lacks flavor, is likely a little mealy, and certainly not juicy. Grab a sweet Georgia peach when they’re in season during June and your life will change fo…",
+      "url": "https://food52.com/blog/27498-best-peach-recipes",
+      "urlToImage": "https://images.food52.com/YVn5Usw_TkXw9-jdlL6RmaYoNg8=/fit-in/1200x1200/daefa5f8-29b5-447d-b3f8-79ce83242a1e--2021-0707_peach-plum-dinner-salad_3x2_mj-kroeger.jpg",
+      "publishedAt": "2022-06-23T00:36:36Z",
+      "content": "Sure, you can probably find a peach at the grocery store year-round. But its probably not very goodit lacks flavor, is likely a little mealy, and certainly not juicy. Grab a sweet Georgia peach when … [+5894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple to support verified brand logos in Mail anti-spam feature",
+      "description": "From iOS 16, iPadOS 16 and macOS Ventura, Apple Mail will support showing a company's official logo to indicate the email is legitimately from that verified firm.As iOS 16 got its second beta release for developers, an unannounced feature has been spotted. It…",
+      "url": "https://appleinsider.com/articles/22/06/23/apple-to-support-verified-brand-logos-in-mail-anti-spam-feature",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/49144-95938-000-lead-Mail-xl.jpg",
+      "publishedAt": "2022-06-23T10:25:15Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Christine McKee)",
+      "title": "Final day: B&H's Mega Deal Zone event discounts 100s of electronics by up to $2,500",
+      "description": "Today is the last day to take advantage of cash savings on hundreds of electronics, from laptops and software to TVs and monitors.Save up to $2,000 on hundreds of electronics during the B&H Mega Deal Zone.B&H's quarterly Mega Deal Zone event delivers discount…",
+      "url": "https://appleinsider.com/articles/22/06/23/final-day-bhs-mega-deal-zone-event-discounts-100s-of-electronics-by-up-to-2500",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/49143-95937-bh-mega-deal-zone-june-2022-xl.jpg",
+      "publishedAt": "2022-06-23T05:25:41Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (AppleInsider Staff)",
+      "title": "Daily deals June 23: $570 for M1 Mac mini, 24% off 2 bay NAS, 21% off Dell 27-inch 4K monitor, more",
+      "description": "Thursday's best deals include $250 off a Radeon RX 6900 XT graphics card, $110 for TP-Link Mesh WiFi 3-pack, 33% off a HyperX SoloCast USB microphone, and much more.Best deals June 23Every day, AppleInsider scours online retailers to find offers and discounts…",
+      "url": "https://appleinsider.com/articles/22/06/23/daily-deals-june-23-570-for-m1-mac-mini-24-off-2-bay-nas-21-off-dell-27-inch-4k-monitor-more",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/49018-95939-Deals-xl.jpg",
+      "publishedAt": "2022-06-23T13:03:54Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+3785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Wesley Hilliard)",
+      "title": "How to save iMessage conversations as a PDF",
+      "description": "There are several reasons why somebody might want a PDF version of an iMessage history, but making one on your own isn't entirely straightforward. Here's what you need to know.Print an iMessage conversation using a MacThe Messages app hosts texts from iPhone …",
+      "url": "https://appleinsider.com/inside/imessage/tips/how-to-save-imessage-conversations-as-a-pdf",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/48993-95846-Export-iMessage-to-PDF-xl.jpg",
+      "publishedAt": "2022-06-23T12:13:49Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+5225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "DealPost Team",
+      "title": "Power all your Apple products at once with 70% off this 3-in-1 charging station",
+      "description": "From your iPhone to your Apple Watch, the need for a steady power supply is crucial. But since nobody is keen on packing a bag full of charging cables and adaptors, and since bargain-basement options won’t do, this Charge and Fold 3-in-1 Docking Station offer…",
+      "url": "https://www.macworld.com/article/790958/power-all-your-apple-products-at-once-with-70-off-this-3-in-1-charging-station.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2022/06/sale_312040_article_image.jpeg?quality=50&strip=all&w=1024",
+      "publishedAt": "2022-06-23T08:00:00Z",
+      "content": "Skip to contentType your search and hit enter\r\nFrom your iPhone to your Apple Watch, the need for a steady power supply is crucial. But since nobody is keen on packing a bag full of charging cables a… [+1274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "Michael Simon, Jason Cross, Roman Loyola",
+      "title": "Macworld Podcast: Should you buy the 13-inch M2 MacBook Pro?",
+      "description": "Apple’s latest laptop is here, and there’s a lot to be excited about—or is there? The new meets the old in the new 13-inch M2 MacBook Pro, the topic of our discussion in this episode of the Macworld Podcast.\r\n\n\n\n\nThis is episode 798 with Jason Cross, Michael …",
+      "url": "https://www.macworld.com/article/793356/macworld-podcast-should-you-buy-the-13-inch-m2-macbook-pro.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2022/06/13inch-macbook-pro-m1-004.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2022-06-23T08:00:00Z",
+      "content": "Skip to contentType your search and hit enter"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "David Price",
+      "title": "Volkswagen CEO casts doubt over Apple’s car plans",
+      "description": "It’s one of the worst-kept secrets in the tech industry that a large group of Apple employees are working on a car project, known internally as Project Titan. But there’s a difference between working on a project and actually shipping out a finished product, …",
+      "url": "https://www.macworld.com/article/794162/volkswagen-ceo-casts-doubt-over-apples-car-plans.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2022/06/apple_car_glow.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2022-06-23T08:26:02Z",
+      "content": "Skip to contentType your search and hit enter\r\nIt’s one of the worst-kept secrets in the tech industry that a large group of Apple employees are working on a car project, known internally as Project … [+2470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "そうこ",
+      "title": "Apple WatchでYouTube動画を視聴できるアプリ「WatchTube」",
+      "description": "Apple WatchでYouTube動画を視聴できるアプリ「WatchTube」。使いやすいインターフェース。",
+      "url": "https://www.gizmodo.jp/2022/06/watch-youtube-videos-on-your-apple-watch.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/WatchTube-YouTube-Apple-Watch-app-w960.jpg",
+      "publishedAt": "2022-06-23T07:00:00Z",
+      "content": "Apple Watch YouTube\r\nWatchTubeApple WatchYouTubeAppleYouTube \r\nYouTubeBluetoothApple WatchQRWatchTube\r\nYouTube \r\nWatchTubeApp Store\r\nSource: via 9to5Mac"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "そうこ",
+      "title": "Nothing phone (1)は、リリース前の現時点では特に印象ナッシング？",
+      "description": "日本時間では7月13日に発表されるNothing初のスマートフォン「phone (1)」。すでに外観デザインは公開されており、背面スケルトン＆光るのが大きな特徴となることがわかっています。発表を目前に、テック系YouTuberのMarques Brownleeさん（MKBHD）が触ってみた動画を公開しています。",
+      "url": "https://www.gizmodo.jp/2022/06/nothing-phone-lighting-marques-brownlee-mkbhd-pre-order.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/220623nothingphone1-w960.jpg",
+      "publishedAt": "2022-06-23T10:00:00Z",
+      "content": "713Nothingphone (1)YouTuberMarques BrownleeMKBHD\r\nVIdeo: Marques Brownlee/YouTube\r\nGlyph\r\nGif: YouTube / MKBHD\r\nBrownleeGlyph900LED\r\nGizmodo\r\nGizmodoFlorence IonGlyphOSAndroidNothingOSNothingphone (1… [+116 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "はらいさん",
+      "title": "著名アナリストKuo氏「AirTag売れてますね、次世代モデルも開発されると思います」",
+      "description": "発売から既に1年以上が経過したAirTagですが、数年以内にApple（アップル）は次世代モデルを発売するかもしれません。",
+      "url": "https://www.gizmodo.jp/2022/06/airtag-2nd-rumors.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/6aa90dd50be0a058dc91d583a043c404-w960.jpeg",
+      "publishedAt": "2022-06-23T13:30:00Z",
+      "content": "AirTag, which has not received much attention, has gradually grown in shipments since its release. Shipment estimations of AirTag reach about 20 mn &amp; 35 mn units in 2021 &amp; 2022, respectively.… [+131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Thomas Estimbre",
+      "title": "Fitbit : des profils de sommeil pour améliorer sa forme font leur apparition",
+      "description": "Fitbit annonce l’arrivée des profils de sommeil pour les abonnés Premium. La fonction sera disponible début juillet et regroupe les données de dix indicateurs clés du sommeil.\nFitbit : des profils de sommeil pour améliorer sa forme font leur apparition",
+      "url": "https://www.journaldugeek.com/2022/06/23/fitbit-des-profils-de-sommeil-pour-ameliorer-sa-forme-font-leur-apparition/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/fitbit-profils-sommeil.jpg",
+      "publishedAt": "2022-06-23T08:00:43Z",
+      "content": "Fitbit annonce larrivée des profils de sommeil pour les abonnés Premium. La fonction sera disponible début juillet et regroupe les données de dix indicateurs clés du sommeil.Fitbit sintéresse au suiv… [+2776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Laura Dobberstein",
+      "title": "Chinese startup hires chip godfather and TSMC vet to break into DRAM biz",
+      "description": "They're putting a crew together, and Beijing's tossed in $750m to get things started\nA Chinese state-backed startup has hired legendary Japanese chip exec Yukio Sakamoto as part of a strategy to launch a local DRAM industry.…<!--#include virtual='/data_centre…",
+      "url": "https://www.theregister.com/2022/06/23/swaysure_hires_yukio_sakamoto/",
+      "urlToImage": "https://regmedia.co.uk/2019/06/06/dram_stick.jpg",
+      "publishedAt": "2022-06-23T12:19:14Z",
+      "content": "A Chinese state-backed startup has hired legendary Japanese chip exec Yukio Sakamoto as part of a strategy to launch a local DRAM industry.\r\nChinese press last week reported that Sakamoto has joined … [+2470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "David Bernal Raspall",
+      "title": "iOS 16 permite hacer algo con el Apple Watch que jamás creí que fuera posible",
+      "description": "La cantidad de opciones de accesibilidad que encontramos en los sistemas de Apple es de lo más asombrosa. Se trata de características pensadas para aquellas personas que pueden tener dificultades a la hora de interactuar con los dispositivos, pero, a veces, s…",
+      "url": "https://www.applesfera.com/ios/ios-16-permite-hacer-algo-apple-watch-que-jamas-crei-que-fuera-posible",
+      "urlToImage": "https://i.blogs.es/01763d/hero/840_560.jpeg",
+      "publishedAt": "2022-06-23T08:42:57Z",
+      "content": "La cantidad de opciones de accesibilidad que encontramos en los sistemas de Apple es de lo más asombrosa. Se trata de características pensadas para aquellas personas que pueden tener dificultades a l… [+1650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "David Bernal Raspall",
+      "title": "La beta 2 de iOS 16 trae una nueva forma de hacer copias de seguridad en el iPhone y otras 16 novedades más",
+      "description": "Después de que algunas fuentes apuntaran a que la beta se iba a retrasar hasta la semana que viene, Apple lanzó ayer la segunda beta de iOS 16 y el resto de sistemas operativos. Una segunda beta que viene con varios cambios interesantes y diferentes mejoras.\n…",
+      "url": "https://www.applesfera.com/desarrollo-de-software/beta-2-ios-16-trae-nueva-forma-hacer-copias-seguridad-iphone-otras-16-novedades",
+      "urlToImage": "https://i.blogs.es/55225a/hero/840_560.jpeg",
+      "publishedAt": "2022-06-23T07:13:20Z",
+      "content": "Después de que algunas fuentes apuntaran a que la beta se iba a retrasar hasta la semana que viene, Apple lanzó ayer la segunda beta de iOS 16 y el resto de sistemas operativos. Una segunda beta que … [+3184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Jesús Quesada",
+      "title": "Aprovecha la rebaja del Apple AirTag a 28 euros y acompáñalo con estos cinco accesorios en oferta",
+      "description": "El Apple AirTag es un accesorio muy interesante para meter en la maleta estas vacaciones si queremos estar seguros de dónde está el equipaje y evitar extraviarlo/perderlo. Ahora mismo se puede adquirir en oferta a 28 euros, pero sin accesorios pierde mucho po…",
+      "url": "https://www.applesfera.com/seleccion/aprovecha-rebaja-apple-airtag-a-28-euros-acompanalo-estos-cinco-accesorios-oferta",
+      "urlToImage": "https://i.blogs.es/f50a1e/accesorios-airtag/840_560.jpg",
+      "publishedAt": "2022-06-23T09:36:29Z",
+      "content": "El Apple AirTag es un accesorio muy interesante para meter en la maleta estas vacaciones si queremos estar seguros de dónde está el equipaje y evitar extraviarlo/perderlo. Ahora mismo se puede adquir… [+2210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Eduardo Archanco",
+      "title": "Ver el universo a través del techo de nuestra casa ya es posible. Apple ha contratado al genio detrás de esta alucinante creación",
+      "description": "Una de las áreas más animadas del sector tecnológico es el de la realidad aumentada, virtual y mixta. Mientras la compañía de Cupertino prepara sus Apple Glasses, seguimos viendo avances espectaculares en este frente. Y ahora, Apple acaba de contratar a un au…",
+      "url": "https://www.applesfera.com/general/ver-universo-a-traves-techo-nuestra-casa-posible-apple-ha-contratado-al-genio-detras-esta-alucinante-creacion",
+      "urlToImage": "https://i.blogs.es/792012/hero/840_560.jpeg",
+      "publishedAt": "2022-06-23T13:28:54Z",
+      "content": "Una de las áreas más animadas del sector tecnológico es el de la realidad aumentada, virtual y mixta. Mientras la compañía de Cupertino prepara sus Apple Glasses, seguimos viendo avances espectacular… [+1817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Miguel López",
+      "title": "He sido infiel a mi iPhone 13 Pro Max con un Xiaomi 12 durante un mes: esta ha sido mi experiencia",
+      "description": "Detesto cuando alguien me llama fanboy. Admito que mis opiniones eran bastante más parciales hace quince años, pero a mis 37 años considero que mi preferencia sobre Apple no parte de una confianza ciega en la compañía. Procuro seguir la actualidad de Windows …",
+      "url": "https://www.applesfera.com/curiosidades/he-sido-infiel-a-mi-iphone-13-pro-max-xiaomi-12-durante-mes-esta-ha-sido-mi-experiencia",
+      "urlToImage": "https://i.blogs.es/8dd561/captura-de-pantalla-2022-06-22-a-las-11.43.44/840_560.jpeg",
+      "publishedAt": "2022-06-23T07:01:37Z",
+      "content": "Detesto cuando alguien me llama fanboy. Admito que mis opiniones eran bastante más parciales hace quince años, pero a mis 37 años considero que mi preferencia sobre Apple no parte de una confianza ci… [+17307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phandroid - News for Android"
+      },
+      "author": "Tyler Lee",
+      "title": "Poco Watch review: a basic smartwatch at an affordable price",
+      "description": "Poco just got into the smartwatch game with the Poco Watch. While it isn’t the most spectacular or feature-rich smartwatch we’ve seen, it gets all the basics right and it’s affordable to boot. Find out more in our review.\nThe post Poco Watch review: a basic s…",
+      "url": "https://phandroid.com/2022/06/23/poco-watch-review-a-basic-smartwatch-at-an-affordable-price/",
+      "urlToImage": "https://phandroid.com/wp-content/uploads/2022/05/poco-watch-5-640x513.jpg",
+      "publishedAt": "2022-06-23T12:00:56Z",
+      "content": "Poco is a company best-known for their smartphones, especially with devices like the Poco F1 which was a true flagship killer. Recently, the company started to expand its product offerings and has fi… [+7071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Richard Devine",
+      "title": "Genshin Impact now available on Nvidia GeForce Now with some bonus rewards thrown in",
+      "description": "Having announced it last week, today finally sees Genshin Impact join the Nvidia GeForce Now library for all players. And with it, the best way to play the game on mobile. Naturally, you’ll need a decent data connection, but given how demanding the mobile ver…",
+      "url": "https://www.xda-developers.com/?p=661637",
+      "urlToImage": "https://www.xda-developers.com/files/2022/06/GFN_Thursday-June_23.jpg",
+      "publishedAt": "2022-06-23T13:05:41Z",
+      "content": "Having announced it last week, today finally sees Genshin Impact join the Nvidia GeForce Now library for all players. And with it, the best way to play the game on mobile. Naturally, you’ll need a de… [+2123 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Karthik Iyer",
+      "title": "Samsung Galaxy Watch 5 and Galaxy Watch 5 Pro: Release Date, Price, Rumors, and more",
+      "description": "Samsung released its Galaxy Watch 4 and the Galaxy Watch 4 Classic back in August 2021, meaning they’re both nearly a year old now. Still, we think they’re still one of the best smartwatches you can buy right now. As torch-bearers of Google’s new Wear OS 3, b…",
+      "url": "https://www.xda-developers.com/samsung-galaxy-watch-5/",
+      "urlToImage": "https://www.xda-developers.com/files/2022/06/Samsung-Galaxy-Watch-5-and-Watch-5-Pro.jpg",
+      "publishedAt": "2022-06-23T07:00:42Z",
+      "content": "Samsung released its Galaxy Watch 4 and the Galaxy Watch 4 Classic back in August 2021, meaning they’re both nearly a year old now. Still, we think they’re still one of the best smartwatches you can … [+14015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Ben Sin",
+      "title": "OnePlus 10 Pro vs Xiaomi 12 Pro: Which Android flagship is better?",
+      "description": "Every year around spring time we get a slew of new Android flagships running on the newest Qualcomm chip, and while Samsung’s S series get the bulk of the attention early on, there are several other brands that put out excellent, polished handsets. Sure, Xiao…",
+      "url": "https://www.xda-developers.com/oneplus-10-pro-vs-xiaomi-12-pro/",
+      "urlToImage": "https://www.xda-developers.com/files/2022/03/OnePlus-10-pro-xiaomi-12-pro-XDA-111.jpg",
+      "publishedAt": "2022-06-23T04:01:40Z",
+      "content": "Every year around spring time we get a slew of new Android flagships running on the newest Qualcomm chip, and while Samsung’s S series get the bulk of the attention early on, there are several other … [+14601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+      "title": "IKEA Launches AI-Powered \"Kreativ\" Mixed Reality App",
+      "description": "Shortly after introducing its collaboration with Swedish House Mafia, IKEA offers an exciting new update to its AR-technology capabilities, allowing customers to better visualize how their offerings can mix and match in a variety of different living spaces. T…",
+      "url": "https://hypebeast.com/2022/6/ikea-ar-furniture-preview-app-function-info",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F06%2Fikea-ar-furniture-preview-app-function-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2022-06-23T02:58:50Z",
+      "content": "Shortly after introducing its collaboration with Swedish House Mafia, IKEA offers an exciting new update to its AR-technology capabilities, allowing customers to better visualize how their offerings … [+1441 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Romain Vitt",
+      "title": "Zoom sur le boom de la réparation de smartphones",
+      "description": "Alors que le marché des smartphones est en perte de vitesse, celui de la réparation explose. Zoom sur ce nouveau mode de consommation en plein essor.",
+      "url": "https://www.presse-citron.net/zoom-sur-le-boom-de-la-reparation-de-smartphones/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/03/smartphone-casse-reparation.jpg",
+      "publishedAt": "2022-06-23T10:45:46Z",
+      "content": "-12%. Cest lévolution du marché des smartphones au premier trimestre 2022 par rapport à lannée précédente. Jamais les ventes de smartphones nont été aussi basses depuis 2013. Alors quune crise touche… [+4594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Tristan Rayner",
+      "title": "Daily Authority: ️ Alexa does voice mimicry now",
+      "description": "Amazon shows Alexa talking like a dead relative, plus other less-creepy tech news you need to know today!",
+      "url": "https://www.androidauthority.com/daily-authority-june-23-2022-3179558/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/01/An-Amazon-Echo-4-in-a-kitchen.jpg",
+      "publishedAt": "2022-06-23T11:16:57Z",
+      "content": "Good morning! Alright, my second-last day here on the newsletter! No tears!\r\n One new thing Ill be doing is working with TechAltar on his YouTube tech videos, mostly focused on The Friday Checkout ch… [+4902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "Stephen Warwick",
+      "title": "iPhone 13 is helping Apple destroy Android in premium smartphone market",
+      "description": "\"Apple continued to lead the premium market, exceeding 60% share for the second consecutive quarter.\"\n\nWhat you need to know\n\n\nNew research indicates Apple continues to dominate the premium smartphone sector.\nCounterpoint says that it holds a 62% share of pho…",
+      "url": "https://www.imore.com/iphone-13-helping-apple-destroy-android-premium-smartphone-market",
+      "urlToImage": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2022/06/iphone-13-review-hero-resized169.jpg",
+      "publishedAt": "2022-06-23T13:32:53Z",
+      "content": "New research from Counterpoint reveals that Apple is absolutely destroying Android when it comes to its share of the global premium smartphone market.\r\nNew research published Thursday indicates Apple… [+1893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "Stephen Warwick",
+      "title": "One of iOS 16's biggest upgrades has finally arrived",
+      "description": "\"The RoomPlan framework is now available in iOS & iPadOS 16, enabling 3D parametric model creation of an interior room.\"\n\nWhat you need to know\n\n\niOS 16 is getting a new RoomPlan tool that will let developers create apps for scanning rooms.\nRoomPlan uses ARKi…",
+      "url": "https://www.imore.com/one-ios-16s-biggest-upgrades-has-finally-arrived",
+      "urlToImage": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2022/06/ios-16-roomplan.jpg",
+      "publishedAt": "2022-06-23T09:56:01Z",
+      "content": "Apple has rolled out the second developer betas of iOS 16 and iPadOS 16 this week and has confirmed that the RoomPlan framework is now available.\r\nThe beta's release notes state:\r\nThe RoomPlan framew… [+1719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "Stephen Warwick",
+      "title": "Here's one Alexa feature we hope the HomePod never gets",
+      "description": "\"While AI can't eliminate that pain of loss, it can definitely make their memories last\"\n\nWhat you need to know\n\n\nAmazon is hosting its MARS 2022 conference this week.\nThe company has shown off a new Alexa feature we'd quite happily never like to see on HomeP…",
+      "url": "https://www.imore.com/alexa-impersonating-your-dead-relatives-one-homepod-feature-we-can-do-without",
+      "urlToImage": "https://www.imore.com/sites/imore.com/files/styles/large/public/article_images/2020/09/all-new-echo-hero-bd5y.jpg",
+      "publishedAt": "2022-06-23T11:07:26Z",
+      "content": "Amazon has this week revealed a new Alexa feature that lets its virtual assistant mimic the voice of users' dead relatives, a feature we'd be quite happy never to see on HomePod.\r\nAs reported by Sky,… [+1591 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Mitchel Broussard",
+      "title": "Deals: Get Apple's AirPods for Best Prices of 2022 on Amazon, Starting at $99.99",
+      "description": "Apple's AirPods 2 and AirPods Pro have returned to some of the best prices we've tracked in 2022, with as much as $74 off these wireless headphones.\n\n\n\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may rece…",
+      "url": "https://www.macrumors.com/2022/06/23/deals-get-airpods-for-99-99-2/",
+      "urlToImage": "https://images.macrumors.com/t/47YI4r7-EdFvR4u9_QVnXz4Q8WY=/2322x/article-new/2021/03/AirPods-Combo-Discount-Feature-Yellow.jpg",
+      "publishedAt": "2022-06-23T13:06:49Z",
+      "content": "Apple's AirPods 2 and AirPods Pro have returned to some of the best prices we've tracked in 2022, with as much as $74 off these wireless headphones.\r\nNote: MacRumors is an affiliate partner with Amaz… [+1187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Rick",
+      "title": "Actualité : Top produit – Les écouteurs true wireless Sony WF-1000XM4 à 229,00 €",
+      "description": "Les écouteurs true wireless Sony WF-1000XM4 s'affichent aujourd'hui à 229,00 € chez Amazon. C'est actuellement le meilleur produit de notre comparatif.",
+      "url": "https://www.lesnumeriques.com/intra-ecouteur-true-wireless/top-produit-les-ecouteurs-true-wireless-sony-wf-1000xm4-a-229-00-n186089.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/test/16/164569/08739f41-sony-wf-1000xm4-l-elite-des-ecouteurs-true-wireless-a-reduction-de-bruit-se-trouve-de-nouveaux-ambassadeurs__1200_630__overflow_wtmk.jpeg",
+      "publishedAt": "2022-06-23T06:33:02Z",
+      "content": "Les écouteurs true wireless Sony WF-1000XM4 s'affichent aujourd'hui à 229,00  chez Amazon. C'est actuellement le meilleur produit de notre comparatif.\r\nQu'on se le dise : sur le juteux marché des éco… [+1895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Samuel Fernández",
+      "title": "El precio más bajo hasta la fecha para el iPad Air 2022 con el Apple M1 derrochando potencia y listo para aguantar muchos años",
+      "description": "Apple renovó recientemente sus iPad y lanzó una nueva versión de su ya histórico iPad Air. El modelo aterrizó en su versión de 2022 con una opción básica aún de 64GB y Apple lo puso a la venta rozando los 700 euros de precio de venta recomendado, pero ahora c…",
+      "url": "https://www.xatakamovil.com/guias-de-compra/precio-fecha-para-ipad-air-2022-apple-m1-derrochando-potencia-listo-para-aguantar-muchos-anos",
+      "urlToImage": "https://i.blogs.es/601131/portada/840_560.jpg",
+      "publishedAt": "2022-06-23T10:01:41Z",
+      "content": "Apple renovó recientemente sus iPad y lanzó una nueva versión de su ya histórico iPad Air. El modelo aterrizó en su versión de 2022 con una opción básica aún de 64GB y Apple lo puso a la venta rozand… [+1289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Oscar Hartzog",
+      "title": "2022 Wimbledon Live Stream: How to Watch Tennis Tournament Online Free",
+      "description": "Tennis’ most prestigious trophy is up for grabs at this year’s Wimbledon tournament — here’s how to watch all the matches live online without cable",
+      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-watch-wimbledon-online-tennis-live-stream-free-1372755/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-22-at-5.06.45-PM-e1655942932212.png",
+      "publishedAt": "2022-06-23T00:16:09Z",
+      "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nWimbledon — the oldest and most prestigious tennis tour… [+4329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Oliver Posselt",
+      "title": "iPad als HomeKit-Steuerzentrale: Apple bestätigt das Aus für das Tablet",
+      "description": "Das Smart Home kann mit allerlei Plattformen betrieben werden, der eine oder andere setzt da sicher auch auf HomeKit. Bisher ist es so, dass neben dem Apple TV oder dem HomePod auch ein iPad als Steuerzentrale genutzt werden kann, wir...Zum Beitrag: iPad als …",
+      "url": "https://stadt-bremerhaven.de/ipad-als-homekit-steuerzentrale-apple-bestaetigt-das-aus-fuer-das-tablet/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/HOME-Apple-Bridges.jpeg",
+      "publishedAt": "2022-06-23T08:30:45Z",
+      "content": "Das Smart Home kann mit allerlei Plattformen betrieben werden, der eine oder andere setzt da sicher auch auf HomeKit. Bisher ist es so, dass neben dem Apple TV oder dem HomePod auch ein iPad als Steu… [+1057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Smart-Home-Zentrale: Aqara Hub M1S Gen 2 startet in Deutschland",
+      "description": "Nicht wirklich neu, aber aufgemotzt, kommt der Aqara Hub M1S Generation 2 daher. Mit neuen Hardware- und Software-Updates übernimmt der Hub M1S Gen 2 die meisten Funktionen des Vorgängers und verbessert die Netzwerksicherheit durch die Übernahme des WPA3-Stan…",
+      "url": "https://stadt-bremerhaven.de/smart-home-zentrale-aqara-hub-m1s-gen-2-startet-in-deutschland/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/Aqara-Updates-Its-Iconic-Hub-M1S_.jpg",
+      "publishedAt": "2022-06-23T10:02:40Z",
+      "content": "Nicht wirklich neu, aber aufgemotzt, kommt der Aqara Hub M1S Generation 2 daher. Mit neuen Hardware- und Software-Updates übernimmt der Hub M1S Gen 2 die meisten Funktionen des Vorgängers und verbess… [+1465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Nathan Le Gohlisse",
+      "title": "Avec iOS 16, Apple s’apprêterait à tuer une fonction de l’iPad",
+      "description": "Une mention contenue dans la seconde bêta d'iOS 16, destinée aux développeurs, laisse entendre que l'iPad pourrait bientôt ne plus être pris en charge en tant que hub domestique.Vous aviez pris l’habitude de contrôler vos appareils connectés depuis votre iPad…",
+      "url": "https://www.frandroid.com/marques/apple/1375477_avec-ios-16-apple-sappreterait-a-tuer-une-fonction-de-lipad",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/ipad.jpg",
+      "publishedAt": "2022-06-23T09:41:33Z",
+      "content": "Une mention contenue dans la seconde bêta d'iOS 16, destinée aux développeurs, laisse entendre que l'iPad pourrait bientôt ne plus être pris en charge en tant que hub domestique.\r\nLiPad ne pourrait b… [+2263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Vincent Sergère",
+      "title": "Volkswagen ne croit pas à l’Apple Car et pense rapidement dépasser Tesla",
+      "description": "Herbert Diess, le patron de Volkswagen, s'est exprimé au sujet de l'Apple Car et de la concurrence avec Tesla dans plusieurs interviews. L'allemand pense que Volkswagen dépassera Tesla en termes de vente d'ici à 2025 et n'imagine pas Apple réussir à produire …",
+      "url": "https://www.frandroid.com/marques/volkswagen/1375747_volkswagen-ne-croit-pas-a-lapple-car-et-pense-rapidement-depasser-tesla",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/apple-wwdc22-ios16-carplay-220606.jpg",
+      "publishedAt": "2022-06-23T10:14:38Z",
+      "content": "Herbert Diess, le patron de Volkswagen, s'est exprimé au sujet de l'Apple Car et de la concurrence avec Tesla dans plusieurs interviews. L'allemand pense que Volkswagen dépassera Tesla en termes de v… [+3457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Ulrich Rozier",
+      "title": "Revue de tests du MacBook Pro (2022), alors que vaut l’Apple M2 ?",
+      "description": "Le MacBook Pro M2 est là ! En attendant notre test, et surtout en attendant le MacBook Air M2, nous avons lu les meilleurs tests des spécialistes pour répondre à la question du titre de l'article.Le nouveau MacBook Air M2 n’est pas encore disponible. Cependan…",
+      "url": "https://www.frandroid.com/marques/apple/1375397_revue-de-tests-du-macbook-pro-2022-alors-que-vaut-lapple-m2",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/macbook-pro-m2-goldem-scaled.jpeg",
+      "publishedAt": "2022-06-23T05:09:43Z",
+      "content": "Le MacBook Pro M2 est là ! En attendant notre test, et surtout en attendant le MacBook Air M2, nous avons lu les meilleurs tests des spécialistes pour répondre à la question du titre de l'article.\r\nM… [+6486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.ru"
+      },
+      "author": "Дарья Бакина",
+      "title": "Квиз «Ща скажу»: может ли монетка пробить череп и почему в Средневековье люди хранили одежду в туалетах",
+      "description": "Квиз даст ответы на сложные вопросы: про монетку и прохожего и сомика рода Candiru, у которого может быть странная связь с человеческим анусом.",
+      "url": "https://lifehacker.ru/shha-skazhu-2/",
+      "urlToImage": "https://cdn.lifehacker.ru/wp-content/uploads/2022/06/shha-skazhu-1_1654872961-1280x640.jpg",
+      "publishedAt": "2022-06-23T12:30:30Z",
+      "content": "« » : . . , .\r\n « » - «» .\r\n : , , ; , Candiru ; .\r\n . , !\r\n « » , : Apple Podcasts, Google Podcasts, YouTube, «», «», CastboxSoundStream."
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": "Марина Совина",
+      "title": "Ритейлеры начали ввозить электронику в Россию через серый импорт",
+      "description": "Ритейлеры начали ввозить в Россию электронику по новой схеме, через параллельный импорт. Одним из первых нововведение подтвердил «Связной». Речь идет о смартфонах, ноутбуках, смарт-часах компаний Samsung, Apple, а также игровых консолях PlayStation, Xbox и Ni…",
+      "url": "https://lenta.ru/news/2022/06/23/import/",
+      "urlToImage": "https://icdn.lenta.ru/images/2022/06/23/04/20220623045107112/share_0f1e5e6e67ff5df6af418d6966d9f798.jpg",
+      "publishedAt": "2022-06-23T01:51:04Z",
+      "content": ", , . «», «».\r\n , , - Samsung, Apple, PlayStation, Xbox Nintendo. .\r\n «» , , , 10-20 , . , - .\r\n , , , ().\r\n, (), .\r\n21 . , .\r\n«» . - , ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "SwitchBot Plug Mini mit Apple-Home-Unterstützung angekündigt",
+      "description": "Vielleicht kennen einige unserer Leser schon das Unternehmen SwitchBot. Die wurden damit bekannt, dass sie Produkte anboten, die beispielsweise „dumme“ Lichtschalter smart machen. Dies aber auf eine andere Weise. So kann ein alter Lichtschalter verbaut bleibe…",
+      "url": "https://stadt-bremerhaven.de/switchbot-plug-mini-mit-apple-home-unterstuetzung-angekuendigt/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/SwitchBot_LOGO_.jpg",
+      "publishedAt": "2022-06-23T07:00:25Z",
+      "content": "Vielleicht kennen einige unserer Leser schon das Unternehmen SwitchBot. Die wurden damit bekannt, dass sie Produkte anboten, die beispielsweise „dumme“ Lichtschalter smart machen. Dies aber auf eine … [+1190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Oliver Posselt",
+      "title": "iOS 16 Beta 2: Das ist neu",
+      "description": "Apple hat gestern die neue Beta von iOS 16 für Entwickler freigegeben. Mit Beta 2 ändert man ein paar Dinge im System, die wir für euch kurz zusammenfassen möchten. Wenn ihr im Sperrbildschirm das Wallpaper ändern wollt, habt ihr nun...Zum Beitrag: iOS 16 Bet…",
+      "url": "https://stadt-bremerhaven.de/ios-16-beta-2-das-ist-neu/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/ios16.jpeg",
+      "publishedAt": "2022-06-23T08:00:04Z",
+      "content": "Apple hat gestern die neue Beta von iOS 16 für Entwickler freigegeben. Mit Beta 2 ändert man ein paar Dinge im System, die wir für euch kurz zusammenfassen möchten.\r\nWenn ihr im Sperrbildschirm das W… [+1585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Felix Frank",
+      "title": "Telegram Premium: So könnt ihr das Abo bereits in Deutschland abschließen",
+      "description": "Mit Telegram Premium hat der gleichnamige Messenger-Dienst ein Abo an den Start gebracht. Jenes hat zahlreiche Funktionen, insbesondere erhöhte Limits für Power-User im Gepäck – ist aber in Deutschland bislang nicht offiziell nutzbar. Kein billiges Unterfange…",
+      "url": "https://stadt-bremerhaven.de/telegram-premium-so-koennt-ihr-das-abo-bereits-in-deutschland-abschliessen/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2019/04/telegram_logo.jpg",
+      "publishedAt": "2022-06-23T09:00:48Z",
+      "content": "Mit Telegram Premium hat der gleichnamige Messenger-Dienst ein Abo an den Start gebracht. Jenes hat zahlreiche Funktionen, insbesondere erhöhte Limits für Power-User im Gepäck – ist aber in Deutschla… [+2515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbeta.com"
+      },
+      "author": "study875",
+      "title": "watchOS 9引入重新校准功能 更精准预估Apple Watch最大电池容量",
+      "description": "根据今天发布的 watchOS 9 更新，苹果为 Apple Watch Series 4/Series 5 添加重新校准功能，可以更精准预估最大电池容量。苹果在 iOS 14.5 中提供了重新调整 iPhone 11 系列电池状态报告的功能，而这是第一次在 Apple Watch 上校准电池。您将需要多次充电，直到调整完成并且显示切换到正确的显示。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1284077.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2022/0623/ee42c5e352804ee.webp",
+      "publishedAt": "2022-06-23T02:59:51Z",
+      "content": "watchOS 9 Apple Watch Series 4/Series 5 iOS 14.5 iPhone 11 Apple Watch"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Pierre FONTAINE",
+      "title": "Test : le MacBook Pro 13 pouces M2 devient le nouvel ultraportable roi de l’autonomie",
+      "description": "Si l’ultraportable professionnel d’Apple ne change pas de design – dommage –, il apporte pourtant avec lui une grande nouveauté, le premier SoC de seconde génération d’Apple Silicon, le M2. Une puce assez performante pour faire à nouveau du MacBook Pro le roi…",
+      "url": "https://www.01net.com/actualites/test-le-macbook-pro-m2-devient-le-nouvel-ultraportable-roi-de-lautonomie.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2022/06/Apple-MacBook-Pro-13-M2_03.jpg",
+      "publishedAt": "2022-06-23T13:36:46Z",
+      "content": "Si lultraportable professionnel dApple ne change pas de design dommage , il apporte pourtant avec lui une grande nouveauté, le premier SoC de seconde génération dApple Silicon, le M2. Une puce assez … [+8228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Eric LE BOURLOUT",
+      "title": "Xiaomi Book S : une tablette sous ARM rivale de la Surface Pro X… qui arrive pile au mauvais moment",
+      "description": "A l’occasion d’un événement à Paris, Xiaomi a dévoilé son premier ordinateur deux-en-un. Bien inspiré par les Surface de Microsoft, le Xiaomi Book S est aussi le premier PC Xiaomi à tourner avec une puce ARM, le Snapdragon 8CX gen2. Un SoC dépassé techniqueme…",
+      "url": "https://www.01net.com/actualites/xiaomi-book-s-une-tablette-sous-arm-rivale-de-la-surface-pro-x-qui-arrive-pile-au-mauvais-moment.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2022/06/147c57f2cf195bd1de777c21d0499b9c.jpg",
+      "publishedAt": "2022-06-23T07:02:11Z",
+      "content": "A loccasion dun événement à Paris, Xiaomi a dévoilé son premier ordinateur deux-en-un. Bien inspiré par les Surface de Microsoft, le Xiaomi Book S est aussi le premier PC Xiaomi à tourner avec une pu… [+3693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbeta.com"
+      },
+      "author": "study875",
+      "title": "[视频]iOS/iPadOS 16 Beta 2发布：优化细节体验",
+      "description": "面向开发人员，苹果今天发布了 iOS/iPadOS 16 的第 2 个 Beta 版本。新版本依然用于测试目的，在第 1 个 Beta 版本的基础上进行改进之外还引入了一些新的功能。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1284001.htm",
+      "urlToImage": "https://www.cnbeta.com//player.bilibili.com/player.html?bvid=BV14S4y1H715&page=1\" width=\"750\" height=\"480\" frameborder=\"0\"></iframe></p><p><img src=\"https://static.cnbetacdn.com/article/2022/0623/00b96944737e488.webp",
+      "publishedAt": "2022-06-23T01:17:16Z",
+      "content": "DuoTone Color Wash Apple \r\nLTE \r\n 5G WiFi iPhone iPad LTE Apple iOS 15 5G iOS 16 LTE\r\nAstronomy \r\nAstronomy Earth iPhone \r\nSet as Wallpaper Pair\r\nApple Cash Apple Card\r\nApple Cash iOS 16 2 \r\nApple Ca… [+347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbeta.com"
+      },
+      "author": "study875",
+      "title": "苹果确认iPad不再作为Home Hub使用",
+      "description": "苹果今天证实，在今年秋季推出 iOS 16、iPadOS 16、macOS Ventura 和 HomePod 16 软件后，iPad 将不再作为家庭中枢（Home Hub）使用。随着 Apple 不再支持将 iPad 用作家庭中枢，用户将只能通过 HomePod、HomePod mini 或 Apple TV 才能作为中枢。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1284055.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2022/0623/40789b85f12033b.webp",
+      "publishedAt": "2022-06-23T02:22:02Z",
+      "content": "MacRumors Steve Moser iOS 16 Apple iPad iOS 16\r\n iOS 16 iPad iPadOS 16 iPad Apple TV HomePod"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbeta.com"
+      },
+      "author": "ugmbbc",
+      "title": "服乔布斯不服库克 苹果传奇设计团队解散内幕曝光",
+      "description": "3年之后，乔纳森·艾维（Jony Ive）离开苹果的原因，终于浮出水面。没错，确实与库克有关。2019年，这个被称为“最像乔布斯的人”，放弃苹果首席设计师位置，挥别自己供职27年的老东家，另立门户。这几乎是苹果设计团队发生的最大人事震动。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1284159.htm",
+      "urlToImage": "https://static.cnbetacdn.com/thumb/article/2022/0623/0a2ee7856ccbeb0.png",
+      "publishedAt": "2022-06-23T06:05:22Z",
+      "content": "MaciPodiPhoneApple Watch\r\nAfter Steve\r\nApple Watch\r\n2014Apple Watch\r\n2\r\nApple Watch\r\n18K\r\nApple Watch\r\nApple WatchVogue\r\n25001.624\r\nCEO\r\nAfter Steve\r\nCEO\r\n10%500\r\n1.6\r\n20\r\n2015\r\nJames?BellMickey?Drex… [+424 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Leah Nylen",
+      "title": "Apple Says US Bill Would Make App Store Less Secure, But Its Critics Aren't So Sure",
+      "description": "Congress members download apps from a special secure site.",
+      "url": "https://www.bloomberg.com/news/articles/2022-06-23/apple-aapl-defends-app-store-security-from-new-us-antitrust-bill-critics",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itZElf8Dou3Q/v1/1200x800.jpg",
+      "publishedAt": "2022-06-23T11:00:43Z",
+      "content": "Apple Inc. says an antitrust bill aimed at cracking open the app-store market will make iPhones less secure even though Congress and some large firms already have Apple-approved tools that let them b… [+404 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Tracy Alloway, Joe Weisenthal",
+      "title": "The Behind-the-Scenes Mess Now Facing the VC Industry",
+      "description": "It's a lot more than just stock declines",
+      "url": "https://www.bloomberg.com/news/articles/2022-06-23/the-behind-the-scenes-mess-now-facing-the-vc-industry",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3kPrpZ64DTY/v0/1200x800.jpg",
+      "publishedAt": "2022-06-23T08:00:32Z",
+      "content": "L\r\nisten to Odd Lots on Apple Podcasts\r\nListen to Odd Lots on Spotify\r\nThere's a fairly linear relationship between what's going on in the stock market and what's going on in the world of venture cap… [+575 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Stephanie Flanders, Michael Sasso",
+      "title": "How Sri Lanka's Financial Crisis Could Become the World's",
+      "description": "The calamity gripping the island nation’s 23 million people threatens to sweep up hundreds of millions more across five other countries.",
+      "url": "https://www.bloomberg.com/news/articles/2022-06-23/podcast-how-sri-lanka-s-financial-crisis-could-become-the-world-s",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHpfuTsOrkCI/v1/1200x800.jpg",
+      "publishedAt": "2022-06-23T08:00:35Z",
+      "content": "Subscribe to Stephanomics on Apple PodcastsSubscribe to Stephanomics on Spotify\r\nAs the US, UK and other wealthy nations grouse about the prospect of stagflation and risk of recession, people in some… [+2398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Touch Arcade"
+      },
+      "author": "Jared Nelson",
+      "title": "Out Now: ‘Hero Emblems II’, ‘Disney Mirrorverse’, ‘Loco Looper’, ‘Tropical Story Resort’, ‘Recoil Gunner’, ‘Lifeline: Beside You in Time’, ‘Paragon Pioneers’, ‘Yet Another Zombie Defense HD’ and More",
+      "description": "Each and every day new mobile games are hitting the App Store, and so each week we put together a … Continue reading \"Out Now: ‘Hero Emblems II’, ‘Disney Mirrorverse’, ‘Loco Looper’, ‘Tropical Story Resort’, ‘Recoil Gunner’, ‘Lifeline: Beside You in Time’, ‘P…",
+      "url": "https://toucharcade.com/2022/06/22/best-new-iphone-games-june-23rd/",
+      "urlToImage": null,
+      "publishedAt": "2022-06-23T03:11:22Z",
+      "content": "Each and every day new mobile games are hitting the App Store, and so each week we put together a big old list of all the best new releases of the past seven days. Back in the day the App Store would… [+9186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Itmedia.co.jp"
+      },
+      "author": "MACお宝鑑定団",
+      "title": "Apple、Apple Musicの学生プランを値上げ　月額480円から580円に",
+      "description": "Apple Musicの「学生プラン」月額利用料金が580円に値上げされた。",
+      "url": "https://www.itmedia.co.jp/news/articles/2206/23/news238.html",
+      "urlToImage": "https://image.itmedia.co.jp/news/articles/2206/23/cover_news238.jpg",
+      "publishedAt": "2022-06-23T10:51:00Z",
+      "content": "AppleApple Music480580\r\nVoice4809801480\r\n499/5.99/\r\nCopyright (C) 1998 Mac Treasure Tracing Club. All rights reserved.\r\nIDITmedia NEWS"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Jon Quast)",
+      "title": "Warren Buffett Has Bet the Farm on These 4 Stocks",
+      "description": "But you're making a huge mistake if you construct your portfolio like Berkshire Hathaway's.",
+      "url": "https://www.fool.com/investing/2022/06/23/warren-buffett-has-bet-the-farm-on-these-4-stocks/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/685896/warren-buffett-1-tmf-2015.jpg",
+      "publishedAt": "2022-06-23T10:12:00Z",
+      "content": "If you want to be a successful investor, you'd do well to imitate Berkshire Hathaway CEO Warren Buffett. When Buffett took over at Berkshire in the 1960s, the stock traded for less than $15 per share… [+5356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Will Healy, Justin Pope, and Jake Lerch)",
+      "title": "3 Warren Buffett Stocks You'll Wish You'd Bought 5 Years From Now",
+      "description": "Many of Buffett's software-related stocks appear poised to come back.",
+      "url": "https://www.fool.com/investing/2022/06/23/3-warren-buffett-stocks-wish-bought-5-years/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/686180/warren-buffett-1-tmf-2015.jpg",
+      "publishedAt": "2022-06-23T12:00:00Z",
+      "content": "Amid the recent stock market sell-off, Warren Buffett has again proven the success of his investment formula. While the S&amp;P 500 has entered bear territory, his company Berkshire Hathaway sells ne… [+6287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Courtney Carlsen)",
+      "title": "5 Buy Now, Pay Later Trends Smart Investors Are Watching",
+      "description": "Here's what you should know before investing in any buy now, pay later companies.",
+      "url": "https://www.fool.com/investing/2022/06/23/5-buy-now-pay-later-trends-smart-investors-are-wat/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/686177/employee-scans-digital-phone-payment-getty-2022.jpg",
+      "publishedAt": "2022-06-23T11:50:00Z",
+      "content": "It's official: The S&amp;P 500 index is in a bear market, with the index falling more than 20% since peaking in early January. Investors are focusing on inflation and rising interest rates, which hav… [+4298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (James Brumley)",
+      "title": "3 Top Tech Stocks That Could Help Make You Rich by Retirement",
+      "description": "Let time do the heavy lifting with these tech stocks.",
+      "url": "https://www.fool.com/investing/2022/06/23/top-tech-stocks-help-make-you-rich-retirement/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/686196/technology-manufacturing.jpg",
+      "publishedAt": "2022-06-23T13:17:27Z",
+      "content": "Investors should make a point of maintaining a sector-diversified portfolio. Not only will doing so sidestep the impact of one particular sector falling out of favor at the worst possible time, but t… [+5464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Will Healy)",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "description": "AI will play a critical role in driving returns for these companies.",
+      "url": "https://www.fool.com/investing/2022/06/23/2-artificial-intelligence-stocks-buy-hold-decade/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/686248/gettyimages-1137939519.jpg",
+      "publishedAt": "2022-06-23T13:28:15Z",
+      "content": "Artificial intelligence (AI) has become an emerging growth sector in the tech economy. Both start-ups and established tech companies are working to capitalize on the technology. Analysts at Grand Vie… [+3323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Michael Byrne)",
+      "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now for Lasting Wealth",
+      "description": "Building lasting wealth with blue chip stocks doesn't have to be complicated.",
+      "url": "https://www.fool.com/investing/2022/06/23/3-no-brainer-warren-buffett-stocks-to-buy-right-no/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/685936/two-friends-enjoying-soft-drinks.jpg",
+      "publishedAt": "2022-06-23T10:57:00Z",
+      "content": "Stock prices rise and fall, but long-term investing in good companies leads to lasting wealth. Warren Buffett has been investing for over 70 years and has generated substantial wealth for Berkshire H… [+5730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Jesse Whittock",
+      "title": "‘The White Lotus’ Actor Leo Woodall & ‘This Is Going To Hurt’ Breakout Ambika Mod To Lead Netflix Drama ‘One Day’",
+      "description": "EXCLUSIVE: Netflix’s tragi-comic romantic drama One Day has its love-cursed leads: The White Lotus’ Leo Woodall and This is Going to Hurt breakout Ambika Mod. Mod will play Emma Morley and Woodall her on-off lover Dexter Mayhew in the Netflix UK series, which…",
+      "url": "https://deadline.com/2022/06/netflix-drama-one-day-casts-the-white-lotus-actor-leo-woodall-this-is-going-to-hurt-breakout-ambika-mod-as-leads-1235050578/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2022/06/Leo-Woodall-and-Ambika-Mod.jpg?w=1024",
+      "publishedAt": "2022-06-23T10:59:32Z",
+      "content": "EXCLUSIVE: Netflix’s tragi-comic romantic drama One Day has its love-cursed leads: The White Lotus’Leo Woodall and This is Going to Hurt breakout Ambika Mod.\r\nMod will play Emma Morley and Woodall he… [+1830 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Atlas"
+      },
+      "author": "C.C. Weiss",
+      "title": "2023 Living Vehicle off-grid trailer now makes water out of thin air",
+      "description": "With more available battery power than some electric vehicles, up to 3,400 watts of deployable solar charging and a list of appliances that reads like a luxury vacation home, the Living Vehicle is already one of the most capable off-grid trailers money can bu…",
+      "url": "https://newatlas.com/outdoors/2023-living-vehicle-water-generator/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/9c74a8d/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F4b%2Fa3%2F1eab0b6b496081d58ad35dd4b5ff%2F2022-05-parkin-alliance-living-vehicle-738-r.jpg",
+      "publishedAt": "2022-06-23T04:28:12Z",
+      "content": "With more available battery power than some electric vehicles, up to 3,400 watts of deployable solar charging and a list of appliances that reads like a luxury vacation home, the Living Vehicle is al… [+4290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Andro4all.com"
+      },
+      "author": "JuanMi Guirado",
+      "title": "70 pulgadas, 4K y Alexa: esta enorme TV de LG se adelanta al Prime Day con este gran precio",
+      "description": "¿Alguna vez has pensado cómo sería tener una pedazo de televisión como esta en tu salón? 70 pulgadas es un tamaño adecuado para una distancia de unos 3-4 metros de visionado, si eres de los afortunados en tener un salón de buenas dimensiones, no esperes, porq…",
+      "url": "https://andro4all.com/ofertas/70-pulgadas-4k-esta-enorme-tv-de-lg-se-adelanta-al-prime-day-con-este-gran-precio",
+      "urlToImage": "https://andro4all.com/hero/2022/06/lg-uhd-uq81-2022.jpg?width=1200&aspect_ratio=1200:631",
+      "publishedAt": "2022-06-23T08:30:00Z",
+      "content": "Es uno de los fabricantes destacados en televisiones.\r\n¿Alguna vez has pensado cómo sería tener una pedazo de televisión como esta en tu salón? 70 pulgadas es un tamaño adecuado para una distancia de… [+2877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Impress.co.jp"
+      },
+      "author": null,
+      "title": "HIKAKINやMrs. GREEN APPLEが登場、Amazonプライムデーの発表会",
+      "description": "アマゾンジャパンは23日、7月に実施するセール「プライムデー」に関する発表会を開催した。",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/1419640.html",
+      "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/640/P1066471.jpg",
+      "publishedAt": "2022-06-23T08:09:52Z",
+      "content": "Mrs. GREEN APPLEYouTuberHIKAKIN \r\n AmazonYouTubeHIKAKIN202215 \r\n HIKAKINHIKAKIN Dream Gift Set15713AmazonTwitter \r\n HIKAKIN Dream Gift SetHIKAKINYouTuberAmazon"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clubic"
+      },
+      "author": "/auteur/407247-merouan-goumiri.html",
+      "title": "Apple publie la bêta 2 d'iOS 16 : voici les nouveautés qui débarqueront sur votre iPhone",
+      "description": "Si vous êtes en possession d’un iPhone, et que celui-ci est bien évidemment compatible, alors vous avez peut-être hâte de mettre la main sur iOS 16. Mais en attendant son déploiement à la rentrée, le système d’exploitation d’Apple vient d’accueillir quelques …",
+      "url": "https://www.clubic.com/pro/entreprises/apple/actualite-428118-apple-publie-la-beta-2-d-ios-16-voici-les-nouveautes-qui-debarqueront-sur-votre-iphone.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/2012856/raw",
+      "publishedAt": "2022-06-23T10:33:00Z",
+      "content": "Si vous êtes en possession dun iPhone, et que celui-ci est bien évidemment compatible, alors vous avez peut-être hâte de mettre la main sur iOS 16. Mais en attendant son déploiement à la rentrée, le … [+1279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clubic"
+      },
+      "author": "Alexandre Schmid",
+      "title": "Safari : cette faille vieille de 5 ans permettait à des hackers d'infecter vos appareils Apple",
+      "description": "Safari a été pendant plus de cinq ans sensible à une faille de sécurité zombie, qui avait été éliminée en 2013 avant de se revenir à la vie en 2016.",
+      "url": "https://www.clubic.com/pro/entreprises/apple/actualite-428130-safari-cette-faille-vieille-de-5-ans-aurait-permis-a-de-nombreux-hackers-d-infecter-vos-appareils-apple.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/2015160/raw",
+      "publishedAt": "2022-06-23T11:35:00Z",
+      "content": "D'après Maddie Stone, l'une des expertes qui ont découvert la faille, une variante de celle-ci est réapparue trois ans après sa correction, en 2016. L'attaque a recours aux mêmes bugs que l'ancienne … [+986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clubic"
+      },
+      "author": "/auteur/407247-merouan-goumiri.html",
+      "title": "iOS 16 : cette évolution du système de sauvegarde des données d'un iPhone était très attendue !",
+      "description": "Depuis maintenant quelques heures, les développeurs ont accès à la version bêta 2 d’iOS 16. Et celle-ci a déjà été l’occasion de faire la découverte d’une fonctionnalité qui sera disponible dans la future version du système d’exploitation.",
+      "url": "https://www.clubic.com/pro/entreprises/apple/actualite-428157-ios-16-cette-evolution-du-systeme-de-sauvegarde-des-donnees-d-un-iphone-etait-tres-attendue.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/2008260/raw",
+      "publishedAt": "2022-06-23T13:15:00Z",
+      "content": "Depuis maintenant quelques heures, les développeurs ont accès à la version bêta 2 diOS 16. Et celle-ci a déjà été loccasion de faire la découverte dune fonctionnalité qui sera disponible dans la futu… [+1305 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sophos.com"
+      },
+      "author": "Paul Ducklin",
+      "title": "S3 Ep88: Phone scammers, hacking bust, and data breach fines [Podcast]",
+      "description": "Latest epsiode - listen now!",
+      "url": "https://nakedsecurity.sophos.com/2022/06/23/s3-ep88-phone-scammers-hacking-bust-and-data-breach-fines-podcast/",
+      "urlToImage": "https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2021/09/ns-1200-logo-podcast.png?w=775",
+      "publishedAt": "2022-06-23T11:08:42Z",
+      "content": "LISTEN NOW\r\nClick-and-drag on the soundwaves below to skip to any point. You can also listen directly on Soundcloud.\r\n<ul><li>[00’22”] Duck gets behind the Ducks.</li><li>[01’34”] 2000 phone scammers… [+479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "A.O. Scott",
+      "title": "‘Flux Gourmet’ Review: Mastering the Art of Fringe Cooking",
+      "description": "Peter Strickland’s latest film is a speculative comedy about art, desire and gastrointestinal discomfort.",
+      "url": "https://www.nytimes.com/2022/06/23/movies/flux-gourmet-review.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/06/23/arts/23flux-gourmet-review/merlin_208715292_594ff0a7-1ecb-49e1-ac57-9e74d65c6ba5-facebookJumbo.jpg",
+      "publishedAt": "2022-06-23T11:00:07Z",
+      "content": "The film isnt so much an allegory or fantasy as a witty philosophical speculation on some elemental human issues. We are animals driven by lust, hunger and aggression, but also delicate creatures in … [+1176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "Manuel Bewarder, Manuel Bewarder",
+      "title": "„Ente Blut“ – jetzt wird es gefährlich",
+      "description": "Berlin soll ihnen Schutz bieten. Doch immer wieder erfahren Regimegegner: Der lange Arm ihres Heimatstaates kann sie auch hier greifen. So wie bei einem Vietnamesen, der mitten am Tag im Tiergarten verschleppt wird.",
+      "url": "https://www.welt.de/podcasts/welt-history/article239500053/Spione-in-Berlin-Jetzt-wird-es-gefaehrlich-WELT-History-Podcast.html",
+      "urlToImage": "https://img.welt.de/img/podcasts/mobile239131617/2551353617-ci16x9-w1200/WELT-Teaseroptik-Podcast-Stadt-der-Spione.jpg",
+      "publishedAt": "2022-06-23T10:23:45Z",
+      "content": "Die Reporterinnen und Reporter des WELT-Investigativteams gehen den Spuren nach Vietnam nach. Sie zeigen, wie Agenten Operationen vorbereiten. Sie sprechen mit einer deutschen Beamtin, die Spione obs… [+1161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "Thomas Heuzeroth, Thomas Heuzeroth",
+      "title": "Immer mehr Deutsche sind bereit fürs Flugtaxi",
+      "description": "Fast jeder zweite Mensch in Deutschland würde mit dem Flugtaxi zur Arbeit pendeln. Damit steigt einer Studie zufolge die Akzeptanz für die Fluggeräte an, bevor es sie überhaupt gibt. Auch Drohnen finden die Deutschen sinnvoll – nur nicht in ihrer Nähe.",
+      "url": "https://www.welt.de/wirtschaft/article239509095/Flugtaxi-Vier-von-zehn-Deutschen-wuerden-einsteigen.html",
+      "urlToImage": "https://img.welt.de/img/wirtschaft/mobile239269527/0161359547-ci16x9-w1200/Elektro-Flugtaxi-Lilium-testet-300-km-h.jpg",
+      "publishedAt": "2022-06-23T04:28:06Z",
+      "content": "Vier von zehn Menschen in Deutschland können sich vorstellen, mit einem Flugtaxi zur Arbeit zu pendeln. 45 Prozent wären bereit, auf diese Weise zwischen zwei Städten zu reisen. Das ist das Ergebnis … [+4696 chars]"
+    }
+  ]
+}

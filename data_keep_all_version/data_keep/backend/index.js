@@ -5,13 +5,15 @@ connectToMongo();
 const app = express()
 const port = 3000
 
-// app.get('/', (req, res) => {
-//   res.send('Hello World!')
-// })
-app.use('/api/auth', require ('./routers/auth'))
-app.use('/api/notes', require ('./routers/notes'))
+app.use(express.json())
+// we have to write middleware
+
+
+//avilabl routes
+app.use('/api/auth', require('./routes/auth'))
+app.use('/api/notes', require('./routes/notes'))
 
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`Example app listening at http://localhost:${port}`)
 })

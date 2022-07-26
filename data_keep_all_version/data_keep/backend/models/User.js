@@ -23,9 +23,12 @@ date:{
   });
 //   ------------------------------------------------------------
   const User =mongoose.model("user", UserSchema);
+  // registers our schema with mongoose
 
   User.createIndexes();
 
   module.exports = User;
   
 //   -------------------------------------------------------------
+// "schema" use for provide the charactristis in this case it hold user charactristis for login
+// Our user model can then be accessed anywhere in our application by calling mongoose.model('User')

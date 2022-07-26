@@ -1,37 +1,45 @@
-
-const express = require('express');
-const User = require('../models/User');
+const express = require("express");
+const User = require("../models/User");
 const router = express.Router();
-const { body, validationResult } = require('express-validator');
+const { body, validationResult } = require("express-validator");
 
+// create a user using: post "/api/auth/createuser" doesn't require auth
 
-
-// create a user using: post "/api/auth/" doesn't require auth
-// ---------------------------------------------------------------------------
-// all this code is from express validator docomentation
-
-router.post('/',[
-  body('name', 'Enter a vaild Name').isLength({min: 3}),
-  body('email', 'Enter a vaild email').isEmail(),
-  body('password', 'Enter a vaild password').isLength({min: 5}),
-], (req, res)=>{
+router.post(
+  "/createuser",
+  [
+    body("name", "Enter a vaild Name").isLength({ min: 3 }),
+    body("email", "Enter a vaild email").isEmail(),
+    body("password", "Enter a vaild password").isLength({ min: 5 }),
+  ],
+  async (req, res) => {
+    //if there is an error , return the bad request and the errors
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
       return res.status(400).json({ errors: errors.array() });
     }
-    User.create({
-      name: req.body.name,
-      password: req.body.password,
-      email: req.body.email,
-    }).then(user => res.json(user))
-      
-// ------------------------------------------------------------------------------------------------
-   // this help in show the messege of err in the console of resonse 
-     .catch (err=> {console.log(err)
-      res.json({error: 'please enter a unique email', message: err.message})})
-      //"message: err.message" this is optional u can also remove this it shows system err message
-// -----------------------------------------------------------------------------------------
-  } )
 
-   module.exports = router
+    //check wheather the user wih this email exist or not
+    try {
+      let user = await User.findOne({ email: req.body.email });
+      if (user) {
+        return res
+          .status(400)
+          .json({ error: "Sorry a user alredy exist with this email" });
+      }
+      //create a new user
+      user = await User.create({
+        name: req.body.name,
+        password: req.body.password,
+        email: req.body.email,
+      });
 
+      res.json(user);
+    } catch (error) {
+      console.error(error.message);
+      res.status(500).send("some Error Ocurred");
+    }
+  }
+);
+
+module.exports = router;

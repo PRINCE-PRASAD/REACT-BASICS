@@ -1,5 +1,5 @@
-// import { createContext } from "react";
+import { createContext } from "react";
 
-// const nodeContext = createContext();
+const noteContext = createContext();
 
-// export default nodeContext;
+export default noteContext;

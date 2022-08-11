@@ -16,7 +16,7 @@ function App() {
     <NoteState>
      <BrowserRouter>
         <Navbar />
-        <div>
+        <div className="container">
         <Routes>
         <Route path="/" element={<Home />}/>
         <Route path="/about" element={<About />}/>

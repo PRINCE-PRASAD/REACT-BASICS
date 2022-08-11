@@ -1,4 +1,4 @@
-import React, {useContext, useEffect} from "react";
+import React, {useContext, useEffect} from "react"
 
 
 const About = () => {
@@ -9,4 +9,4 @@ const About = () => {
   </div>
   )
 }
- export default About;
+ export default About

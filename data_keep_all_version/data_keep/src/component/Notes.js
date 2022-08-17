@@ -5,7 +5,7 @@ import { AddNote } from "./AddNote";
 
 const Notes = () => {
   const context = useContext(noteContext);
-  const { notes, getNotes } = context;
+  const { notes, getNotes, editNote } = context;
 
   useEffect(() => {
     getNotes();
@@ -13,11 +13,19 @@ const Notes = () => {
   }, []);
 
   const ref = useRef(null);
-  const [note, setNote] = useState({ etitle: "", edescription: "", etag: "" });
+  const refClose = useRef(null);
+  //for closing mortal box
+  const [note, setNote] = useState({
+    id: "",
+    etitle: "",
+    edescription: "",
+    etag: "",
+  });
 
   const updateNote = (currentNote) => {
     ref.current.click();
     setNote({
+      id: currentNote._id,
       etitle: currentNote.title,
       edescription: currentNote.description,
       etag: currentNote.tag,
@@ -26,7 +34,9 @@ const Notes = () => {
 
   const handleClick = (e) => {
     console.log("Updating the note...", note);
-    e.preventDefault();
+    editNote(note.id, note.etitle, note.edescription, note.etag);
+    refClose.current.click();
+    //for closing mortal box
   };
 
   const onChange = (e) => {
@@ -36,7 +46,7 @@ const Notes = () => {
   return (
     <>
       <AddNote />
-      // copied modal from bootstrap
+
       <button
         ref={ref}
         type="button"
@@ -112,6 +122,7 @@ const Notes = () => {
             </div>
             <div className="modal-footer">
               <button
+                ref={refClose}
                 type="button"
                 className="btn btn-secondary"
                 data-bs-dismiss="modal"

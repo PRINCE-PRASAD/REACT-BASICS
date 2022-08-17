@@ -8,7 +8,7 @@ const NoteState = (props) => {
       "_id": "62e3ab0181d3b73bb97a2f6b0",
       "user": "62e0291bdb2db06630ba41c5",
       "title": "My Title",
-      "description": "Here is my first desceiption",
+      "description": "Here is my first description",
       "tag": "Personal1",
       "date": "2022-07-29T09:40:17.663Z",
       "__v": 0
@@ -17,7 +17,7 @@ const NoteState = (props) => {
       "_id": "62e3ab0181d3b73bb97a2f6b1",
       "user": "62e0291bdb2db06630ba41c5",
       "title": "My Title",
-      "description": "Here is my first desceiption",
+      "description": "Here is my first description",
       "tag": "Personal1",
       "date": "2022-07-29T09:40:17.663Z",
       "__v": 0
@@ -26,7 +26,7 @@ const NoteState = (props) => {
       "_id": "62e3ab0181d3b73bb97a2f6b2",
       "user": "62e0291bdb2db06630ba41c5",
       "title": "My Title",
-      "description": "Here is my first desceiption",
+      "description": "Here is my first description",
       "tag": "Personal1",
       "date": "2022-07-29T09:40:17.663Z",
       "__v": 0
@@ -35,7 +35,7 @@ const NoteState = (props) => {
       "_id": "62e3ab0181d3b73bb97a2f6b3",
       "user": "62e0291bdb2db06630ba41c5",
       "title": "My Title",
-      "description": "Here is my first desceiption",
+      "description": "Here is my first description",
       "tag": "Personal1",
       "date": "2022-07-29T09:40:17.663Z",
       "__v": 0
@@ -44,7 +44,7 @@ const NoteState = (props) => {
       "_id": "62e3ab0181d3b73bb97a2f6b4",
       "user": "62e0291bdb2db06630ba41c5",
       "title": "My Title",
-      "description": "Here is my first desceiption",
+      "description": "Here is my first description",
       "tag": "Personal1",
       "date": "2022-07-29T09:40:17.663Z",
       "__v": 0
@@ -56,7 +56,7 @@ const [notes, setNotes] = useState(notesInitial);
 const addNote = (title, description, tag)=>{
   console.log("Adding a new note")
 const note={
-  "_id": "62e3ab0181d3b73bb97a2f6b5",
+      "_id": "62e3ab0181d3b73bb97a2f6b5",
       "user": "62e0291bdb2db06630ba41c5",
       "title": title,
       "description": description,
@@ -68,12 +68,14 @@ setNotes(notes.concat(note))
 }
 
 //Delete a note
-const deleteNote = ()=>{
-  
+const deleteNote = (id)=>{
+  console.log("node is deleted eith id" + id);
+  const newNotes = notes.filter((note)=>{return note._id!==id})
+setNotes(newNotes)
 }
 
 //Edit a note
-const editNote = ()=>{
+const editNote = (id, title, description, tag)=>{
   
 }
 

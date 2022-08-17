@@ -64,7 +64,7 @@ setNote({...note, [e.target.name]: e.target.value})
             className="btn btn-primary"
             onClick={handleClick}
           >
-            Submit
+            Add Note
           </button>
         </form>
       </div>

@@ -58,7 +58,7 @@ const addNote = (title, description, tag)=>{
 const note={
   "_id": "62e3ab0181d3b73bb97a2f6b5",
       "user": "62e0291bdb2db06630ba41c5",
-      "title": "title",
+      "title": title,
       "description": description,
       "tag": tag,
       "date": "2022-07-29T09:40:17.663Z",
@@ -73,15 +73,15 @@ const deleteNote = ()=>{
 }
 
 //Edit a note
-const EditNote = ()=>{
+const editNote = ()=>{
   
 }
 
 
   return (
-    <NoteContext.Provider value={{notes, addNote, deleteNote, EditNote }}>
+    <NoteContext.Provider value={{notes, addNote, deleteNote, editNote }}>
       {props.children}
     </NoteContext.Provider>
-  );
-};
+  )
+}
 export default NoteState;

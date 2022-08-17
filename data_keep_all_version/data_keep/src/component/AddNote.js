@@ -11,7 +11,7 @@ export const AddNote = () => {
   const handleClick = (e) => {
     e.preventDefault();
 
-addNote(note.tag, note.description, note.tag);
+addNote(note.title, note.description, note.tag);
   }
   
   const onChange =(e)=>{
@@ -69,5 +69,6 @@ setNote({...note, [e.target.name]: e.target.value})
         </form>
       </div>
     </div>
-  );
-};
+  )
+}
+export default AddNote

@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useRef, useState } from "react";
 import noteContext from "../context/notes/noteContext";
 import Noteitem from "./Noteitem";
 import { AddNote } from "./AddNote";
-import {useNavigate}  from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const Notes = (props) => {
   const context = useContext(noteContext);
@@ -10,10 +10,10 @@ const Notes = (props) => {
   const { notes, getNotes, editNote } = context;
 
   useEffect(() => {
-    if (localStorage.getItem('token')) {
-      getNotes()
+    if (localStorage.getItem("token")) {
+      getNotes();
     } else {
-      navigate.push("/login");
+      navigate("/login");
     }
 
     // eslint-disable-next-line
@@ -36,8 +36,7 @@ const Notes = (props) => {
       etitle: currentNote.title,
       edescription: currentNote.description,
       etag: currentNote.tag,
-    })
-    
+    });
   };
 
   const handleClick = (e) => {
@@ -54,7 +53,7 @@ const Notes = (props) => {
 
   return (
     <>
-      <AddNote showAlert={props.showAlert}/>
+      <AddNote showAlert={props.showAlert} />
 
       <button
         ref={ref}
@@ -164,7 +163,12 @@ const Notes = (props) => {
         </div>
         {notes.map((note) => {
           return (
-            <Noteitem key={note._id} updateNote={updateNote} showAlert={props.showAlert} note={note} />
+            <Noteitem
+              key={note._id}
+              updateNote={updateNote}
+              showAlert={props.showAlert}
+              note={note}
+            />
           );
         })}
       </div>

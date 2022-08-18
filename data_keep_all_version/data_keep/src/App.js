@@ -11,6 +11,9 @@ import { Home } from "./component/Home";
 import About from "./component/About";
 import NoteState from "./context/notes/NoteState";
 import { Alert } from "./component/Alert";
+import Signup from "./component/Signup";
+import Login from "./component/Login";
+
 function App() {
   return (
     <>
@@ -20,8 +23,12 @@ function App() {
         <Alert  message="this is a alert"/>
         <div className="container">
         <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="/about" element={<About />}/>
+        <Route exact path="/" element={<Home />}/>
+        <Route exact path="/about" element={<About />}/>
+        <Route exact path="/login" element={<Login />}/>
+        <Route exact path="/signup" element={<Signup />}/>
+        
+      
         </Routes>
         </div>
       </BrowserRouter>

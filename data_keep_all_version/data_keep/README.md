@@ -19,14 +19,14 @@ Data Keep is a web application developed using the MERN stack (MongoDB, Express.
 ![Login Page](./Assets/Screenshot%202024-01-10%20001519.png)
 
 ### Add Notes Page
-![Add Notes Page](/Assets/Screenshot%202024-01-10%20001405.png)
-![Add Notes Page](/Assets/Screenshot%202024-01-10%20001442.png)
+![Add Notes Page](./Assets/Screenshot%202024-01-10%20001405.png)
+![Add Notes Page](./Assets/Screenshot%202024-01-10%20001442.png)
 
 ### MongoDB USER
-![Add Notes Page](/Assets/Screenshot%202024-01-10%20001623.png)
+![MongoDB USER](./Assets/Screenshot%202024-01-10%20001623.png)
 
 ### MongoDB NOTES
-![Add Notes Page](/Assets/Screenshot%202024-01-10%20001638.png)
+![MongoDB NOTES](./Assets/Screenshot%202024-01-10%20001638.png)
 
 ## Getting Started
 

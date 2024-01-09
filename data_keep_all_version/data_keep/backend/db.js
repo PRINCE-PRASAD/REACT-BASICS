@@ -1,5 +1,5 @@
 const mongooes = require("mongoose");
-const mongoURI = "mongodb://localhost:27017/datakeep";
+const mongoURI = "paste your mongo uri";
 // /datakeep use for new datbase in name of datakeep
 
 const connectToMongo = () => {
